@@ -7,19 +7,19 @@ IBM SKILLS BUILD INTERNSHIP PROJECT
 **Platform:** IBM SkillsBuild Watsonx.ai Studio  
 **Powered by:** IBM Watsonx.ai + Granite Large Language Model
 
-ResearchAgent/
-│
-├── ResearchAgent.ipynb         # Your main IBM Watsonx.ai notebook
-├── README.md                   # Documentation (the one I just made for you)
-├── requirements.txt            # Python dependencies for reference
-├── sample_outputs/              # Example screenshots of notebook output
-│   ├── summary_example.png
-│   ├── chat_example.png
-│   └── literature_review.png
-├── LICENSE                     # MIT or any open-source license
-└── docs/                        # (Optional) PPT or PDF for project
-    ├── ResearchAgent_Presentation.pptx
-    └── ResearchAgent_Report.pdf
+    ResearchAgent/
+    │
+    ├── ResearchAgent.ipynb         # Your main IBM Watsonx.ai notebook
+    ├── README.md                   # Documentation (the one I just made for you)
+    ├── requirements.txt            # Python dependencies for reference
+    ├── sample_outputs/              # Example screenshots of notebook output
+    │   ├── summary_example.png
+    │   ├── chat_example.png
+    │   └── literature_review.png
+    ├── LICENSE                     # MIT or any open-source license
+    └── docs/                        # (Optional) PPT or PDF for project
+        ├── ResearchAgent_Presentation.pptx
+        └── ResearchAgent_Report.pdf
 
 ---
 
